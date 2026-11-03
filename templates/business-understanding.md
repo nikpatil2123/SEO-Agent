@@ -1,0 +1,25 @@
+# Business and Product Understanding
+
+- Project:
+- Website:
+- Canonical domain:
+- Business/brand:
+- Products/services:
+- Business model:
+- Value proposition:
+- Verified differentiators:
+- Target audience:
+- Target geography:
+- Languages:
+- Primary conversion goal:
+- Secondary goals:
+- Priority URLs:
+- Known competitors:
+- Brand voice:
+- Legal/regulatory constraints:
+- Customer-confirmed facts:
+- Website-observed facts:
+- Third-party verified facts:
+- Hypotheses requiring confirmation:
+- Unresolved questions:
+- Date and researcher:

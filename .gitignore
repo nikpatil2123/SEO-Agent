@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+reports/private/
+artifacts/
+playwright-report/
+test-results/
+node_modules/
