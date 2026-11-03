@@ -270,4 +270,3 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
-**Built for evidence-led search visibility work: research first, consent always, validate before release.**
